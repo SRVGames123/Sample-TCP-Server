@@ -1,0 +1,329 @@
+
+2025-07-12 18:37:26 - [2025-07-12 18:37:26] type: Debug, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:39:50 - [32m[2025-07-12 18:39:50]] type: Debug, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:40:30 - [32m[2025-07-12 18:40:30][0m type: Debug, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:48:41 - [32m[2025-07-12 18:48:41][0m type: [32mDebug[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:49:35 - [32m[2025-07-12 18:49:35][0m type: [32mDebug[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:50:07 - [32m[2025-07-12 18:50:07][0m type: [32mDebug[0m, fullName Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:50:16 - [32m[2025-07-12 18:50:16][0m type: [32mDebug[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:51:44 - [32m[2025-07-12 18:51:44][0m type: [32mDebug[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+2025-07-12 18:51:44 - [32m[2025-07-12 18:51:44][0m type: [32mDebug[0m, fullName ServerService.ServerService, msg: Address: 26.32.4.11:2222, parameters: System.Object[]
+
+2025-07-12 18:53:12 - [32m[2025-07-12 18:53:12][0m type: [32mDebug[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
+
+
+2025-07-12 18:53:12 - [32m[2025-07-12 18:53:12][0m type: [32mDebug[0m, fullName ServerService.ServerService, msg: Address: 26.32.4.11:2222, parameters: System.Object[]
+
+
+2025-07-12 18:53:48 - [32m[2025-07-12 18:53:48][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-07-12 18:53:48 - [32m[2025-07-12 18:53:48][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-07-12 18:55:14 - [32m[2025-07-12 18:55:14][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-07-12 18:55:15 - [32m[2025-07-12 18:55:15][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:39:53 - [32m[2025-08-11 07:39:53][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:39:54 - [32m[2025-08-11 07:39:54][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:43:48 - [32m[2025-08-11 07:43:48][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:43:48 - [32m[2025-08-11 07:43:48][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:45:19 - [32m[2025-08-11 07:45:19][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:45:19 - [32m[2025-08-11 07:45:19][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:47:00 - [32m[2025-08-11 07:47:00][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:47:00 - [32m[2025-08-11 07:47:00][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:47:36 - [32m[2025-08-11 07:47:36][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:47:36 - [32m[2025-08-11 07:47:36][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:48:02 - [32m[2025-08-11 07:48:02][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:48:02 - [32m[2025-08-11 07:48:02][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:57:49 - [32m[2025-08-11 07:57:49][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:57:49 - [32m[2025-08-11 07:57:49][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 07:58:55 - [32m[2025-08-11 07:58:55][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 07:58:55 - [32m[2025-08-11 07:58:55][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:03:19 - [32m[2025-08-11 08:03:19][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:03:19 - [32m[2025-08-11 08:03:19][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:09:11 - [32m[2025-08-11 08:09:11][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:09:11 - [32m[2025-08-11 08:09:11][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:12:18 - [32m[2025-08-11 08:12:18][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:12:18 - [32m[2025-08-11 08:12:18][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:16:00 - [32m[2025-08-11 08:16:00][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:16:00 - [32m[2025-08-11 08:16:00][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:20:26 - [32m[2025-08-11 08:20:26][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:20:26 - [32m[2025-08-11 08:20:26][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:23:34 - [32m[2025-08-11 08:23:34][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:23:34 - [32m[2025-08-11 08:23:34][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:24:36 - [32m[2025-08-11 08:24:36][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:24:36 - [32m[2025-08-11 08:24:36][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:26:17 - [32m[2025-08-11 08:26:17][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:26:17 - [32m[2025-08-11 08:26:17][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:27:15 - [32m[2025-08-11 08:27:15][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:27:15 - [32m[2025-08-11 08:27:15][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:27:48 - [32m[2025-08-11 08:27:48][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:27:48 - [32m[2025-08-11 08:27:48][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:29:51 - [32m[2025-08-11 08:29:51][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:29:51 - [32m[2025-08-11 08:29:51][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:31:01 - [32m[2025-08-11 08:31:01][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-11 08:31:01 - [32m[2025-08-11 08:31:01][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-11 08:31:14 - [32m[2025-08-11 08:31:14][0m type: [32mDebug[0m fullName ModalStrikeServer.RpcServer.Services.AuthRemoteSerivce.AuthRemoteSerivce;
+msg: Invoke Auth
+parameters: System.Object[]
+
+
+2025-08-13 16:00:19 - [32m[2025-08-13 16:00:19][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-13 16:00:19 - [32m[2025-08-13 16:00:19][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 16:01:09 - [32m[2025-08-13 16:01:09][0m type: [32mDebug[0m fullName ModalStrikeServer.RpcServer.Services.AuthRemoteSerivce.AuthRemoteSerivce;
+msg: Invoke Auth
+parameters: System.Object[]
+
+
+2025-08-13 16:03:31 - [32m[2025-08-13 16:03:31][0m type: [32mDebug[0m fullName Program.Program;
+msg: Starting server...
+parameters: System.Object[]
+
+
+2025-08-13 16:03:31 - [32m[2025-08-13 16:03:31][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 16:03:36 - [32m[2025-08-13 16:03:36][0m type: [32mDebug[0m fullName ModalStrikeServer.RpcServer.Services.AuthRemoteSerivce.AuthRemoteSerivce;
+msg: Invoke Auth
+parameters: System.Object[]
+
+
+2025-08-13 16:45:01 - [32m[2025-08-13 16:45:01][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 16:45:10 - [32m[2025-08-13 16:45:10][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 16:45:46 - [32m[2025-08-13 16:45:46][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:10:09 - [32m[2025-08-13 17:10:09][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:12:04 - [32m[2025-08-13 17:12:04][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:13:40 - [32m[2025-08-13 17:13:40][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:15:17 - [32m[2025-08-13 17:15:17][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:15:24 - [32m[2025-08-13 17:15:24][0m type: [32mDebug[0m fullName ModalStrikeServer.RpcServer.Services.AuthRemoteSerivce.AuthRemoteSerivce;
+msg: Invoke Auth
+parameters: System.Object[]
+
+
+2025-08-13 17:44:11 - [32m[2025-08-13 17:44:11][0m type: [32mDebug[0m fullName ServerService.ServerService;
+msg: Server started. Address: 26.32.4.11:2222
+parameters: System.Object[]
+
+
+2025-08-13 17:44:20 - [32m[2025-08-13 17:44:20][0m type: [32mDebug[0m fullName ModalStrikeServer.RpcServer.Services.AuthRemoteSerivce.AuthRemoteSerivce;
+msg: Invoke Auth
+parameters: System.Object[]
+
