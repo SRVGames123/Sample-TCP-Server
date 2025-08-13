@@ -1,2 +1,0 @@
-
-2025-07-12 18:50:54 - [32m[2025-07-12 18:50:54][0m type: [31mError[0m, fullName Program.Program, msg: Starting server..., parameters: System.Object[]
