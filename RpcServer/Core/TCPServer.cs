@@ -4,8 +4,6 @@ using System.Net;
 using System.Net.Sockets;
 using Google.Protobuf;
 using ModalStrike.Protobuf2;
-using ModalStrikeServer.RpcServer.Events;
-using ModalStrikeServer.RpcServer.Events.Core;
 using ModalStrikeServer.RpcServer.Exceptions.Core;
 using ModalStrikeServer.RpcServer.Services;
 using ModalStrikeServer.RpcServer.Utilities;

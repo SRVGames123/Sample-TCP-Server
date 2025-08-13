@@ -5,7 +5,6 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
-using ModalStrikeServer.RpcServer.Events.Core;
 using MongoDB.Bson;
 
 namespace ModalStrikeServer.RpcServer.Core {
